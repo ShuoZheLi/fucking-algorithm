@@ -1,5 +1,8 @@
 # The way to Algorithm learning
 
+**Translator**: [ShuozheLi](https://github.com/ShuoZheLi/)
+**Author**: [labuladong](https://github.com/labuladong)
+
 I have published an article about the ideal framework. People from the community have give praised me. I have never thought so many people will be agree with me. I will work harder to write more easily understanding Algorithm articles.
 
 Many friends asked me how should I learn Data Structure and Algorithm. Especially those who are beginner feel exhausted when going through all the LeetCode questions even after reading my article about the ideal framework. So, they hope to explain and tell them the way how I begin.
@@ -9,7 +12,7 @@ First of all, I want to congrats my friends who are asking me for it because you
 For the ideal framework, a beginner may not be easy to understand. But if you are able to understand it, you are not a beginner anymore :D! It just like software engineering. People like me who never lead a group project feel so bored. But, for someone who has led a team. He/she will treat every sentence in software engineering as a treasure. (if you do not understand this, it is fine for now)
 
 Now, I will go through my experience.
-# if you have read many articles such as "how to practice LeetCode" and "how to study Algorithm", but you still cannot keep up. Then, this article is for you.
+**if you have read many articles such as "how to practice LeetCode" and "how to study Algorithm", but you still cannot keep up. Then, this article is for you.**
 
 When I begin to learn Data Structure and Algorithm, I am always having knowledge gaps in my mind.
 If we summary them into two questions:
@@ -88,12 +91,4 @@ Also, as a person who likes to share, I find out what I said actually helps othe
 Above, it is not only about Algorithm learning. We, as a human being, are driven by our desires. There must be a thing that is tangible to help us to keep up. We have to benefit directly form it! This should be a simple reason to keep up for what we want to achieve.
 
 **You can find me on Wechat official account labuladong**:
-all my friend, labuladong loves you.
-
-![labuladong](../pictures/labuladong.png)
-
-[上一篇：队列实现栈\|栈实现队列](../数据结构系列/队列实现栈栈实现队列.md)
-
-[下一篇：回溯算法详解](../算法思维系列/回溯算法详解修订版.md)
-
-[目录](../README.md#目录)
+All my friend, labuladong loves you.
